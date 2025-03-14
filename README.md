@@ -54,3 +54,4 @@ if __name__ == "__main__":
     house = House("Family House", 2, "brick", 50)
     office = Office("Tech Office", 5, "steel", 20)
     skyscraper = Skyscraper("Downtown Skyscraper", 50, "glass", 10)
+13579
